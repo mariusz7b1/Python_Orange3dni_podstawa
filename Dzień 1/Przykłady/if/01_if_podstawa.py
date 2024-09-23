@@ -6,8 +6,8 @@ from os import system
 system('cls')
 
 
-x = 15
-if x > 10:			    # warunek jest True
+x = int(input("Podaj liczbę "))
+if x > 10:			    # jeśli warunek jest True
     print("x > 10")
     print("jestem w instrukcji if")
 
