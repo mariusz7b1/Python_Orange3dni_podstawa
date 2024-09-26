@@ -13,7 +13,7 @@ lbs = x * 2.2
 kg = x * 0.45
 
 # wypisuje na ekran  f - string formatowanie wyjscia
-print(f"{x} kg to {lbs:0.3f} lbs")
-print(f"{x} lbs to {kg:0.2f} kg")
+print(f"{x} kg to {lbs:0.1f} lbs")
+print(f"{x} lbs to {kg:0.1f} kg")
 # zatrzymuję działanie programu
 input()
