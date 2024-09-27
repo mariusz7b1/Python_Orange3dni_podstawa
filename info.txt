@@ -27,5 +27,6 @@ https://datalore.jetbrains.com/notebooks
 
 #Edytory
 https://code.visualstudio.com/Download
+https://code.visualstudio.com/docs/python/python-tutorial
 
 https://www.jetbrains.com/pycharm/download/#section=windows
